@@ -1,0 +1,22 @@
+[
+    {
+        "text": "да завърша",
+        "completed": false
+    },
+    {
+        "text": "да отида на фитнес",
+        "completed": true
+    },
+    {
+        "text": "да уча",
+        "completed": false
+    },
+    {
+        "text": "да купя хляб",
+        "completed": true
+    },
+    {
+        "text": "да се обадя на баща ми",
+        "completed": true
+    }
+]
